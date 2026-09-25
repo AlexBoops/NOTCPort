@@ -1,0 +1,6 @@
+﻿AppData/
+*AppData*
+.vs/
+*.log
+Thumbs.db
+Desktop.ini
