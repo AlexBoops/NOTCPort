@@ -1,0 +1,5 @@
+﻿# Ignore system and AppData folders if accidentally caught
+AppData/
+*AppData*
+.vs/
+*.log
